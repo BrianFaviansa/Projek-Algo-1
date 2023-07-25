@@ -1,0 +1,12 @@
+[
+    {
+        "nama": "admin",
+        "pw": "admin123",
+        "isAdmin": true
+    },
+    {
+        "nama": "petani",
+        "pw": "petani123",
+        "isAdmin": false
+    }
+]
